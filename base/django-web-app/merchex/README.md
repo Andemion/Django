@@ -4,7 +4,7 @@
         * python -m venv env -> create environment
         * pip install django -> install django
         * pip freeze > requirements.txt -> create a file with all dependency
-        * django-admin startproject projectName -> initialize the project
+        * django-admin startproject projectName . -> initialize the project
         * python manage.py runserver -> run python server
 
     * DB
